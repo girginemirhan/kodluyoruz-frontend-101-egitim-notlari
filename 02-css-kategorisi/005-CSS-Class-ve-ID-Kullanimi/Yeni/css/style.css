@@ -1,0 +1,30 @@
+/****** Css Class Tanımlama ******/
+/* class -> .class-adi {} */
+/* id -> #id-adi {} */
+h1, h2, h3, h4, h5, h6 {
+    color: #805a5a;
+}
+
+h1{
+font-size: 30px;
+}
+
+p {
+font-size: 20px;
+}
+    
+.text-red {
+    color: red;
+}
+
+.fs-small{
+    font-size: 16px;
+}
+
+.fs-medium{
+    font-size: 24px;
+}
+
+.fs-large{
+    font-size: 36px;
+}
